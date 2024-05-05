@@ -50,3 +50,4 @@ Your job is to build a simple UI, which allows a customer to do the following:
 - Avoid using libraries like material UI and bootstrap for basic html components like buttons, checkboxes, textbox etc.
 - We execute your application and run it on a specific port. This helps us in running automated tests against the UI you have developed. Hence please do not force the application to run on any specific ports in your configuration/package manager file. Please ensure that you are not overriding the PORT environment variable in your configuration/package manager file.
 - On executing, your application should be running successfully on http://<hostname>:<port>. For e.g if the hostname of your local system is dev.local and the port you are running is 3030, then your application should be accessible at http://dev.local:3030/ and not just at http://localhost:3030/.
+# teerex-store
